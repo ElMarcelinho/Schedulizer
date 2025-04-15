@@ -1,0 +1,6 @@
+com\schedulizer\AvailabilityRequest.class
+com\schedulizer\User.class
+com\schedulizer\SchedulizerBackendApplication.class
+com\schedulizer\UserController.class
+com\schedulizer\SecurityConfig.class
+com\schedulizer\UserRepository.class

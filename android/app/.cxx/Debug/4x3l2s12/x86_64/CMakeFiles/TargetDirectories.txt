@@ -1,0 +1,2 @@
+C:/Users/Marcel/Downloads/Schedulizer/android/app/.cxx/Debug/4x3l2s12/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Marcel/Downloads/Schedulizer/android/app/.cxx/Debug/4x3l2s12/x86_64/CMakeFiles/rebuild_cache.dir
